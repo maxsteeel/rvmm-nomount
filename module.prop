@@ -1,0 +1,6 @@
+id=rvmm-nomount
+name=revanced-nomount
+version=v1.0.0
+versionCode=1
+author=maxsteeel
+description=Inject the rvmm (ReVanced) modules using NoMount, eliminating traditional mounts.
